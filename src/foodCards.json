@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Burger-1",
+        "image": "../img/burger-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Burger-2",
+        "image": "../img/burger-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cheese-1",
+        "image": "../img/cheese-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cheese-2",
+        "image": "../img/cheese-2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Muffin-1",
+        "image": "../img/muffin-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Muffin-2",
+        "image": "../img/muffin-2.png"
+    },
+    {
+        "id": 7,
+        "name": "Plate-1",
+        "image": "../img/plate-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Plate-2",
+        "image": "../img/plate-2.png"
+    },
+    {
+        "id": 9,
+        "name": "Rice-1",
+        "image": "../img/rice-1.png"
+    },
+    {
+        "id": 10,
+        "name": "Rice-2",
+        "image": "../img/rice-2.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Soup-1",
+        "image": "../img/soup-2.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Soup-2",
+        "image": "../img/soup-2.jpg"
+    }
+
+]
