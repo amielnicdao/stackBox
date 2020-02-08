@@ -7,10 +7,10 @@
 // record high score
 
 import React, { Component } from "react";
-// import FoodCard from "./components/FoodCard";
-// import Wrapper from "./components/Wrapper";
-// import Navbar from "./components/Navbar";
-// import jumbotron from "./components/jumbotron";
+import FoodCard from "./components/FoodCard";
+import Wrapper from "./components/Wrapper";
+import Navbar from "./components/Navbar";
+import jumbotron from "./components/jumbotron";
 import foodCards from "./foodCards.json";
 
 class App extends Component {
@@ -41,6 +41,14 @@ class App extends Component {
 
 
     };
+
+    render() {
+        return (
+            <div>
+
+            </div>
+        )
+    }
 }
 
 export default App;
