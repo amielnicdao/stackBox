@@ -6,8 +6,22 @@
 // when game ends, alert if they would like to play again
 // record high score
 
-import React from "react";
-import ReactDOM from "react-dom";
-import App from "./App";
+import React, { Component } from "react";
+import FoodCard from "./components/FoodCard";
+import Wrapper from "./components/Wrapper";
+import Navbar from "./components/Navbar";
+import jumbotron from "./components/jumbotron";
+import foodCards from "./foodcards.json";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+class App extends Component {
+    // Setting this.state.friends to the friends json array
+    state = {
+      foodCards,
+      clicked: [],
+      score: 0,
+      highScore: 0
+
+}
+}
+
+export default App;
